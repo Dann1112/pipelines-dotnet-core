@@ -1,5 +1,8 @@
 # Sample ASP.NET Core application for Azure Pipelines docs
 
+Status Badge copied from Pipelines in Azure DevOps
+[![Build Status](https://dmanrique.visualstudio.com/FirstProject/_apis/build/status/FirstProject-CI%20(1))](https://dmanrique.visualstudio.com/FirstProject/_build/latest?definitionId=2)
+
 For information on how to use this repository, see [.NET Core](https://docs.microsoft.com/azure/devops/pipelines/languages/dotnet-core).
 
 | Example | Build status |
